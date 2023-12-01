@@ -346,4 +346,4 @@ async def on_message(message):
                     
         
 
-client.run('OTA5OTc3NzY5MDc5ODg5OTIw.YZMI1g.Yvv2_UVNABqea9KvzOa16N3AVOw') #토큰
+client.run('') #토큰
